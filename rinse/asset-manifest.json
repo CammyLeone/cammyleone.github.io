@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://plug.willyouplease.me/rinse/static/css/main.69eda509.chunk.css",
-    "main.js": "https://plug.willyouplease.me/rinse/static/js/main.b42d285e.chunk.js",
-    "main.js.map": "https://plug.willyouplease.me/rinse/static/js/main.b42d285e.chunk.js.map",
+    "main.js": "https://plug.willyouplease.me/rinse/static/js/main.88668718.chunk.js",
+    "main.js.map": "https://plug.willyouplease.me/rinse/static/js/main.88668718.chunk.js.map",
     "runtime-main.js": "https://plug.willyouplease.me/rinse/static/js/runtime-main.3e1fa37b.js",
     "runtime-main.js.map": "https://plug.willyouplease.me/rinse/static/js/runtime-main.3e1fa37b.js.map",
-    "static/js/2.dea2768a.chunk.js": "https://plug.willyouplease.me/rinse/static/js/2.dea2768a.chunk.js",
-    "static/js/2.dea2768a.chunk.js.map": "https://plug.willyouplease.me/rinse/static/js/2.dea2768a.chunk.js.map",
+    "static/js/2.118cd77f.chunk.js": "https://plug.willyouplease.me/rinse/static/js/2.118cd77f.chunk.js",
+    "static/js/2.118cd77f.chunk.js.map": "https://plug.willyouplease.me/rinse/static/js/2.118cd77f.chunk.js.map",
     "index.html": "https://plug.willyouplease.me/rinse/index.html",
-    "precache-manifest.8c892c219bb3105a8c40a1364e4a595c.js": "https://plug.willyouplease.me/rinse/precache-manifest.8c892c219bb3105a8c40a1364e4a595c.js",
+    "precache-manifest.f6b4b5e31663d5904b592e2234db7406.js": "https://plug.willyouplease.me/rinse/precache-manifest.f6b4b5e31663d5904b592e2234db7406.js",
     "service-worker.js": "https://plug.willyouplease.me/rinse/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "https://plug.willyouplease.me/rinse/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.dea2768a.chunk.js.LICENSE.txt": "https://plug.willyouplease.me/rinse/static/js/2.dea2768a.chunk.js.LICENSE.txt",
+    "static/js/2.118cd77f.chunk.js.LICENSE.txt": "https://plug.willyouplease.me/rinse/static/js/2.118cd77f.chunk.js.LICENSE.txt",
     "static/media/Lato-Black.woff": "https://plug.willyouplease.me/rinse/static/media/Lato-Black.21c4d25c.woff",
     "static/media/Lato-Black.ttf": "https://plug.willyouplease.me/rinse/static/media/Lato-Black.77d35374.ttf",
     "static/media/Lato-Black.woff2": "https://plug.willyouplease.me/rinse/static/media/Lato-Black.9ab28490.woff2",
@@ -65,8 +65,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3e1fa37b.js",
-    "static/js/2.dea2768a.chunk.js",
+    "static/js/2.118cd77f.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.b42d285e.chunk.js"
+    "static/js/main.88668718.chunk.js"
   ]
 }
