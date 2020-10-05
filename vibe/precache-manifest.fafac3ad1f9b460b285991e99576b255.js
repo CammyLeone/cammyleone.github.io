@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec4bd9378ce1932264a3254707060e90",
+    "revision": "94019fe7d28e8993f579ddc04c34652a",
     "url": "https://plug.willyouplease.me/vibe/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://plug.willyouplease.me/vibe/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "b931e7a690bdcbde0709",
+    "revision": "8921a203ef6d0627bb1d",
     "url": "https://plug.willyouplease.me/vibe/static/css/main.69eda509.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://plug.willyouplease.me/vibe/static/js/2.60b63c7d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b931e7a690bdcbde0709",
-    "url": "https://plug.willyouplease.me/vibe/static/js/main.99934687.chunk.js"
+    "revision": "8921a203ef6d0627bb1d",
+    "url": "https://plug.willyouplease.me/vibe/static/js/main.c9e68332.chunk.js"
   },
   {
     "revision": "84a89b5f7b2c74330aa2",
