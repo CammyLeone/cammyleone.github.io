@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b325f02633e1efc2c08fc867e366039",
+    "revision": "9501efb7d19aba83c2cac1825ba4ba01",
     "url": "https://plug.willyouplease.me/say/index.html"
   },
   {
