@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://plug.willyouplease.me/say/#/static/css/main.4a10d530.chunk.css",
-    "main.js": "https://plug.willyouplease.me/say/#/static/js/main.643fa86c.chunk.js",
-    "main.js.map": "https://plug.willyouplease.me/say/#/static/js/main.643fa86c.chunk.js.map",
-    "runtime-main.js": "https://plug.willyouplease.me/say/#/static/js/runtime-main.3621caa2.js",
-    "runtime-main.js.map": "https://plug.willyouplease.me/say/#/static/js/runtime-main.3621caa2.js.map",
-    "static/js/2.2dc83e59.chunk.js": "https://plug.willyouplease.me/say/#/static/js/2.2dc83e59.chunk.js",
-    "static/js/2.2dc83e59.chunk.js.map": "https://plug.willyouplease.me/say/#/static/js/2.2dc83e59.chunk.js.map",
-    "index.html": "https://plug.willyouplease.me/say/#/index.html",
-    "precache-manifest.ebe0bdd619739622de88fe8151af761e.js": "https://plug.willyouplease.me/say/#/precache-manifest.ebe0bdd619739622de88fe8151af761e.js",
-    "service-worker.js": "https://plug.willyouplease.me/say/#/service-worker.js",
-    "static/css/main.4a10d530.chunk.css.map": "https://plug.willyouplease.me/say/#/static/css/main.4a10d530.chunk.css.map",
-    "static/js/2.2dc83e59.chunk.js.LICENSE.txt": "https://plug.willyouplease.me/say/#/static/js/2.2dc83e59.chunk.js.LICENSE.txt",
-    "static/media/chalk.png": "https://plug.willyouplease.me/say/#/static/media/chalk.6f562c58.png"
+    "main.css": "https://plug.willyouplease.me/say/static/css/main.4a10d530.chunk.css",
+    "main.js": "https://plug.willyouplease.me/say/static/js/main.8d1df096.chunk.js",
+    "main.js.map": "https://plug.willyouplease.me/say/static/js/main.8d1df096.chunk.js.map",
+    "runtime-main.js": "https://plug.willyouplease.me/say/static/js/runtime-main.8365ed97.js",
+    "runtime-main.js.map": "https://plug.willyouplease.me/say/static/js/runtime-main.8365ed97.js.map",
+    "static/js/2.192d4727.chunk.js": "https://plug.willyouplease.me/say/static/js/2.192d4727.chunk.js",
+    "static/js/2.192d4727.chunk.js.map": "https://plug.willyouplease.me/say/static/js/2.192d4727.chunk.js.map",
+    "index.html": "https://plug.willyouplease.me/say/index.html",
+    "precache-manifest.efba60c8b4dcbe091b45229b88ccfa15.js": "https://plug.willyouplease.me/say/precache-manifest.efba60c8b4dcbe091b45229b88ccfa15.js",
+    "service-worker.js": "https://plug.willyouplease.me/say/service-worker.js",
+    "static/css/main.4a10d530.chunk.css.map": "https://plug.willyouplease.me/say/static/css/main.4a10d530.chunk.css.map",
+    "static/js/2.192d4727.chunk.js.LICENSE.txt": "https://plug.willyouplease.me/say/static/js/2.192d4727.chunk.js.LICENSE.txt",
+    "static/media/chalk.png": "https://plug.willyouplease.me/say/static/media/chalk.6f562c58.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3621caa2.js",
-    "static/js/2.2dc83e59.chunk.js",
+    "static/js/runtime-main.8365ed97.js",
+    "static/js/2.192d4727.chunk.js",
     "static/css/main.4a10d530.chunk.css",
-    "static/js/main.643fa86c.chunk.js"
+    "static/js/main.8d1df096.chunk.js"
   ]
 }
