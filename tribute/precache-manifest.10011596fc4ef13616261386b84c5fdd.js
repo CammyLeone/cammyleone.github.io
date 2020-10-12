@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "012ff1f84a1374a5e22f1c8e10ef994d",
+    "revision": "859fef59475ccb8978b04bc4a9bc6d69",
     "url": "https://plug.willyouplease.me/tribute/index.html"
   },
   {
-    "revision": "7e0147113cabb2c83ef4",
-    "url": "https://plug.willyouplease.me/tribute/static/css/main.a7a2feb8.chunk.css"
+    "revision": "b3e144b617a6b47fdb31",
+    "url": "https://plug.willyouplease.me/tribute/static/css/main.7c5c584a.chunk.css"
   },
   {
     "revision": "8864e4f59a82eb6a2680",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://plug.willyouplease.me/tribute/static/js/2.7101ebb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e0147113cabb2c83ef4",
+    "revision": "b3e144b617a6b47fdb31",
     "url": "https://plug.willyouplease.me/tribute/static/js/main.e8884e1a.chunk.js"
   },
   {
