@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "859fef59475ccb8978b04bc4a9bc6d69",
+    "revision": "e1ce4fe3c442b30849350d2948c69354",
     "url": "https://plug.willyouplease.me/tribute/index.html"
   },
   {
-    "revision": "b3e144b617a6b47fdb31",
-    "url": "https://plug.willyouplease.me/tribute/static/css/main.7c5c584a.chunk.css"
+    "revision": "ca8f8a8db668d8d613b9",
+    "url": "https://plug.willyouplease.me/tribute/static/css/main.edfe45c9.chunk.css"
   },
   {
     "revision": "8864e4f59a82eb6a2680",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://plug.willyouplease.me/tribute/static/js/2.7101ebb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3e144b617a6b47fdb31",
+    "revision": "ca8f8a8db668d8d613b9",
     "url": "https://plug.willyouplease.me/tribute/static/js/main.e8884e1a.chunk.js"
   },
   {
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "57f7a00434ba402240a7a60bd0b7e71d",
     "url": "https://plug.willyouplease.me/tribute/static/media/MuseoW01-900.57f7a004.woff2"
+  },
+  {
+    "revision": "917e443db42abb4306d1b7523c713089",
+    "url": "https://plug.willyouplease.me/tribute/static/media/MuseoW01-900.917e443d.woff"
   },
   {
     "revision": "de8a4e5d0a38ca0d621f616554091dbf",
