@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://plug.willyouplease.me/say/static/css/main.989170c7.chunk.css",
+    "main.js": "https://plug.willyouplease.me/say/static/js/main.2d449e35.chunk.js",
+    "main.js.map": "https://plug.willyouplease.me/say/static/js/main.2d449e35.chunk.js.map",
+    "runtime-main.js": "https://plug.willyouplease.me/say/static/js/runtime-main.120deec5.js",
+    "runtime-main.js.map": "https://plug.willyouplease.me/say/static/js/runtime-main.120deec5.js.map",
+    "static/js/2.8879e039.chunk.js": "https://plug.willyouplease.me/say/static/js/2.8879e039.chunk.js",
+    "static/js/2.8879e039.chunk.js.map": "https://plug.willyouplease.me/say/static/js/2.8879e039.chunk.js.map",
+    "index.html": "https://plug.willyouplease.me/say/index.html",
+    "precache-manifest.bad0005efef2beb263cc13bb9ea5df7a.js": "https://plug.willyouplease.me/say/precache-manifest.bad0005efef2beb263cc13bb9ea5df7a.js",
+    "service-worker.js": "https://plug.willyouplease.me/say/service-worker.js",
+    "static/css/main.989170c7.chunk.css.map": "https://plug.willyouplease.me/say/static/css/main.989170c7.chunk.css.map",
+    "static/js/2.8879e039.chunk.js.LICENSE.txt": "https://plug.willyouplease.me/say/static/js/2.8879e039.chunk.js.LICENSE.txt",
+    "static/media/texture1.jpg": "https://plug.willyouplease.me/say/static/media/texture1.de8a4e5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.120deec5.js",
+    "static/js/2.8879e039.chunk.js",
+    "static/css/main.989170c7.chunk.css",
+    "static/js/main.2d449e35.chunk.js"
+  ]
+}
