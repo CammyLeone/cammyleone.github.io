@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://plug.willyouplease.me/say/static/css/main.4a10d530.chunk.css",
-    "main.js": "https://plug.willyouplease.me/say/static/js/main.800f5b04.chunk.js",
-    "main.js.map": "https://plug.willyouplease.me/say/static/js/main.800f5b04.chunk.js.map",
+    "main.css": "https://plug.willyouplease.me/say/static/css/main.aec53aa3.chunk.css",
+    "main.js": "https://plug.willyouplease.me/say/static/js/main.6722df40.chunk.js",
+    "main.js.map": "https://plug.willyouplease.me/say/static/js/main.6722df40.chunk.js.map",
     "runtime-main.js": "https://plug.willyouplease.me/say/static/js/runtime-main.8365ed97.js",
     "runtime-main.js.map": "https://plug.willyouplease.me/say/static/js/runtime-main.8365ed97.js.map",
-    "static/js/2.2bc4c7d7.chunk.js": "https://plug.willyouplease.me/say/static/js/2.2bc4c7d7.chunk.js",
-    "static/js/2.2bc4c7d7.chunk.js.map": "https://plug.willyouplease.me/say/static/js/2.2bc4c7d7.chunk.js.map",
+    "static/js/2.34d2a9a1.chunk.js": "https://plug.willyouplease.me/say/static/js/2.34d2a9a1.chunk.js",
+    "static/js/2.34d2a9a1.chunk.js.map": "https://plug.willyouplease.me/say/static/js/2.34d2a9a1.chunk.js.map",
     "index.html": "https://plug.willyouplease.me/say/index.html",
-    "precache-manifest.10c3618cb83e5db1ff8ae42a04ff0071.js": "https://plug.willyouplease.me/say/precache-manifest.10c3618cb83e5db1ff8ae42a04ff0071.js",
+    "precache-manifest.1121da113fc5761f323cdcc5a15d6a81.js": "https://plug.willyouplease.me/say/precache-manifest.1121da113fc5761f323cdcc5a15d6a81.js",
     "service-worker.js": "https://plug.willyouplease.me/say/service-worker.js",
-    "static/css/main.4a10d530.chunk.css.map": "https://plug.willyouplease.me/say/static/css/main.4a10d530.chunk.css.map",
-    "static/js/2.2bc4c7d7.chunk.js.LICENSE.txt": "https://plug.willyouplease.me/say/static/js/2.2bc4c7d7.chunk.js.LICENSE.txt",
+    "static/css/main.aec53aa3.chunk.css.map": "https://plug.willyouplease.me/say/static/css/main.aec53aa3.chunk.css.map",
+    "static/js/2.34d2a9a1.chunk.js.LICENSE.txt": "https://plug.willyouplease.me/say/static/js/2.34d2a9a1.chunk.js.LICENSE.txt",
     "static/media/chalk.png": "https://plug.willyouplease.me/say/static/media/chalk.6f562c58.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8365ed97.js",
-    "static/js/2.2bc4c7d7.chunk.js",
-    "static/css/main.4a10d530.chunk.css",
-    "static/js/main.800f5b04.chunk.js"
+    "static/js/2.34d2a9a1.chunk.js",
+    "static/css/main.aec53aa3.chunk.css",
+    "static/js/main.6722df40.chunk.js"
   ]
 }
