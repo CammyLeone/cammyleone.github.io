@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.9fab34c5.chunk.js",
-    "main.js.map": "/static/js/main.9fab34c5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1529678f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1529678f.js.map",
-    "static/css/2.a24a5544.chunk.css": "/static/css/2.a24a5544.chunk.css",
-    "static/js/2.4318da56.chunk.js": "/static/js/2.4318da56.chunk.js",
-    "static/js/2.4318da56.chunk.js.map": "/static/js/2.4318da56.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7f465b358bceb0d7a38651bee943e7b5.js": "/precache-manifest.7f465b358bceb0d7a38651bee943e7b5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.a24a5544.chunk.css.map": "/static/css/2.a24a5544.chunk.css.map",
-    "static/js/2.4318da56.chunk.js.LICENSE.txt": "/static/js/2.4318da56.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/paytone-one-vietnamese-400-normal.6fdfae29.woff2"
+    "main.js": "https://plug.willyouplease.me/goon/static/js/main.843cbf43.chunk.js",
+    "main.js.map": "https://plug.willyouplease.me/goon/static/js/main.843cbf43.chunk.js.map",
+    "runtime-main.js": "https://plug.willyouplease.me/goon/static/js/runtime-main.5fc82bc5.js",
+    "runtime-main.js.map": "https://plug.willyouplease.me/goon/static/js/runtime-main.5fc82bc5.js.map",
+    "static/css/2.f26d8bb1.chunk.css": "https://plug.willyouplease.me/goon/static/css/2.f26d8bb1.chunk.css",
+    "static/js/2.ec52080b.chunk.js": "https://plug.willyouplease.me/goon/static/js/2.ec52080b.chunk.js",
+    "static/js/2.ec52080b.chunk.js.map": "https://plug.willyouplease.me/goon/static/js/2.ec52080b.chunk.js.map",
+    "index.html": "https://plug.willyouplease.me/goon/index.html",
+    "precache-manifest.5702d2ac1c80cc3ccbe83de50e710d43.js": "https://plug.willyouplease.me/goon/precache-manifest.5702d2ac1c80cc3ccbe83de50e710d43.js",
+    "service-worker.js": "https://plug.willyouplease.me/goon/service-worker.js",
+    "static/css/2.f26d8bb1.chunk.css.map": "https://plug.willyouplease.me/goon/static/css/2.f26d8bb1.chunk.css.map",
+    "static/js/2.ec52080b.chunk.js.LICENSE.txt": "https://plug.willyouplease.me/goon/static/js/2.ec52080b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "https://plug.willyouplease.me/goon/static/media/paytone-one-vietnamese-400-normal.6fdfae29.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.1529678f.js",
-    "static/css/2.a24a5544.chunk.css",
-    "static/js/2.4318da56.chunk.js",
-    "static/js/main.9fab34c5.chunk.js"
+    "static/js/runtime-main.5fc82bc5.js",
+    "static/css/2.f26d8bb1.chunk.css",
+    "static/js/2.ec52080b.chunk.js",
+    "static/js/main.843cbf43.chunk.js"
   ]
 }
