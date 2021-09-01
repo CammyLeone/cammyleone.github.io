@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc4eff302287f552f1415371b5e627a7",
+    "revision": "cc91fb7b30b2474e10de852c86a5bb33",
     "url": "https://plug.willyouplease.me/say/index.html"
   },
   {
-    "revision": "40ec08424fbfa652ec67",
+    "revision": "1151b724bd2a8b1baf38",
     "url": "https://plug.willyouplease.me/say/static/css/main.aec53aa3.chunk.css"
   },
   {
-    "revision": "507027f42353f2c3cf7a",
-    "url": "https://plug.willyouplease.me/say/static/js/2.a651cca9.chunk.js"
+    "revision": "c5df0d089245da4b5e77",
+    "url": "https://plug.willyouplease.me/say/static/js/2.f2df00f7.chunk.js"
   },
   {
-    "revision": "c87550333da8df8ab4c80bd1d6e9defb",
-    "url": "https://plug.willyouplease.me/say/static/js/2.a651cca9.chunk.js.LICENSE.txt"
+    "revision": "aa4100970f46d7e0ec2af84de3f2740b",
+    "url": "https://plug.willyouplease.me/say/static/js/2.f2df00f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40ec08424fbfa652ec67",
-    "url": "https://plug.willyouplease.me/say/static/js/main.6ab1b878.chunk.js"
+    "revision": "1151b724bd2a8b1baf38",
+    "url": "https://plug.willyouplease.me/say/static/js/main.643fe02c.chunk.js"
   },
   {
     "revision": "705663d4c5a5879e6731",
