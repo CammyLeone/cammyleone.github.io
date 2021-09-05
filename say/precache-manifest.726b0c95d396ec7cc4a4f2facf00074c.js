@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "969108c26409340d2fa5c732fd9fc78a",
+    "revision": "74bbf9d8b7172849ec629b5a114c1153",
     "url": "https://plug.willyouplease.me/say/index.html"
   },
   {
-    "revision": "fd517a0b5a9c5d58ac83",
+    "revision": "7006d30a4385fcb373aa",
     "url": "https://plug.willyouplease.me/say/static/css/main.aec53aa3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://plug.willyouplease.me/say/static/js/2.f2df00f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd517a0b5a9c5d58ac83",
-    "url": "https://plug.willyouplease.me/say/static/js/main.e3aacba7.chunk.js"
+    "revision": "7006d30a4385fcb373aa",
+    "url": "https://plug.willyouplease.me/say/static/js/main.5a5d34ec.chunk.js"
   },
   {
     "revision": "705663d4c5a5879e6731",
