@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0b3b3cc59a94c4236253f414edbd797",
+    "revision": "3c0493e025698fdb1719fb74f660bdba",
     "url": "https://plug.willyouplease.me/smile/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://plug.willyouplease.me/smile/static/js/2.5bb9f6d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06196e9190d53ad68691",
-    "url": "https://plug.willyouplease.me/smile/static/js/main.9add4082.chunk.js"
+    "revision": "3c0fd1b3326c856805c9",
+    "url": "https://plug.willyouplease.me/smile/static/js/main.70b2ff15.chunk.js"
   },
   {
     "revision": "a9c6769bd742e1da1ea1",
